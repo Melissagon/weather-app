@@ -80,13 +80,3 @@ document.getElementById("searchForm").addEventListener("submit", function(event)
 })
 
 displayHistory();
-// input in search bar
-// call the api, city vs coordinates?
-// clickevent on seearch button
-// api info: select what I want
-// api info: displayed on page
-// memory of searched cities listed in past search
-// make history items clickable and 
-// show the weather for that city
-// hide past searches until they are needed 
-// make responsive for smaller screens
