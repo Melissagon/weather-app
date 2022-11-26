@@ -1,0 +1,9 @@
+#header { 
+     background: linear-gradient(to left, rgb(1, 1, 42), rgb(64, 62, 95));  
+ } 
+
+
+
+#day_1, #day_2, #day_3, #day_4, #day_5 {
+    background: rgb(1, 1, 42);
+}
